@@ -3,7 +3,6 @@ Quiz-Application using Java Swing, Abstract Window Toolkit(AWT)
 
 Certainly! Here's an example of a README file for a Quiz Application project in Java using Swing and AWT:
 
-# Quiz Application
 
 This is a Quiz Application project implemented in Java using Swing and AWT. It allows users to take quizzes on various topics and provides instant feedback on their answers.
 
